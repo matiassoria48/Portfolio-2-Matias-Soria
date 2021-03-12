@@ -1,0 +1,22 @@
+{
+    "movies": [
+      {
+        "id": "1",
+        "title": "Origen",
+        "gener": "Accion / Suspense",
+        "img": "../img/origen.jpg",
+        "opinion": "Gran pelicula que te deja pensando sobre el mundo de los sueños.",
+        "link":"https://www.filmaffinity.com/es/film971380.html"
+
+      },
+
+      {
+        "id": "2",
+        "title": "El Velocipastor",
+        "gener": "Terror / Suspense",
+        "img": "../img/pastor.jpg",
+        "opinion": "Muy mala, pero con sus malos efectos especiales da mucha risa y poco miedo, al final lo pasas bien si lo tomas con humor.",
+        "link":"https://www.filmaffinity.com/es/film733187.html"
+      }
+    ]
+    }

@@ -1,0 +1,20 @@
+{
+    "songs": [
+        {
+            "id": 1,
+            "title": "Pienso en tu mira",
+            "artist": "Rosalia",
+            "opinion": "Me encanta por el toque flanmenco que le da Rosalia, me recuerda a mi madre",
+            "img": "../img/rosalia.png",
+            "link":"https://www.youtube.com/watch?v=p_4coiRG_BI"
+        },
+        {
+            "id": 2,
+            "title": "Vivir",
+            "artist": "Pablo alboran",
+            "opinion": "Muy buena cancion romantica, me encanta Pablito, amor platonico desde peque..",
+            "img": "../img/pablo.jpg",
+            "link":"https://www.youtube.com/watch?v=AZ3GrEQZjWQ"
+        }
+    ]
+}

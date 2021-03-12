@@ -1,0 +1,23 @@
+{
+    "series": [
+      {
+        "id": 1,
+        "title": "Dexter",
+        "gener": "Suspense",
+        "img": "../img/dexter.jpg",
+        "opinion": "Gran serie en la que podemos entender mejor como funciona la cabeza de un asesino.",
+        "link":"https://www.filmaffinity.com/es/film482444.html"
+
+      },
+
+      {
+        "id": 2,
+        "title": "Lie to Me",
+        "gener": "Drama",
+        "img": "../img/lietome.jpg",
+        "opinion": "Muy buena serie y se llega a parender un poco sobre el lenguaje corporal.",
+        "link":"https://www.filmaffinity.com/es/reviews2/1/942395.html"
+
+      }
+    ]
+    }

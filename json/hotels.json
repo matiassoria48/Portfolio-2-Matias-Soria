@@ -1,0 +1,21 @@
+{
+    "hotels": [
+      {
+        "id": 1,
+        "title": "Nixe Palace",
+        "address": "Palma de Mallorca",
+        "img": "../img/nixe.jpg",
+        "opinion": "Buen hotel con grandes vistas al mar y muy buena gastronimia.",
+        "link": "https://www.hotelmallorcanixepalace.com/"
+      },
+
+      {
+        "id": 2,
+        "title": "Playas Arenal",
+        "address": "Arenal, Mallorca",
+        "img": "../img/arenal.jpg",
+        "opinion": "Muy buena eleccion por un bajo precio.",
+        "link":"https://centraldeofertas.es/wp-content/cache/all/hotel-playas-arenal/index.html"
+      }
+    ]
+    }

@@ -1,0 +1,21 @@
+{
+    "trips": [
+      {
+        "id": 1,
+        "title": "Florianopolis",
+        "address": "Florianopolis, Brasil",
+        "img": "../img/floripa.png",
+        "opinion": "Increible sitio para ir de vacaciones con familia, excelentes playas y ambiente.",
+        "link": "https://www.tripadvisor.es/Vacation_Packages-g303576-Florianopolis_State_of_Santa_Catarina-Vacations.html"
+      },
+
+      {
+        "id": 2,
+        "title": "Bilbao",
+        "address": "Bilbao, Pais vasco ",
+        "img": "../img/bilbao.jpg",
+        "opinion": "Gran sitio para ver buena arquitectura y visitar sin necesidad de alejarse mucho de casa ",
+        "link": "https://www.rumbo.es/viajes/espana/bilbao"
+      }
+    ]
+    }

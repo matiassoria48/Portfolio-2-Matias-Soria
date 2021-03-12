@@ -1,0 +1,22 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "title": "Hitman",
+            "enterprise": "IO Interactive",
+            "gener": "Sigilo",
+            "img": "../img/hitman.jpg",
+            "opinion": "No está mal aunque se hace un poco lento.",
+            "link": "https://store.steampowered.com/agecheck/app/236870/?l=spanish"
+        },
+        {
+            "id": 2,
+            "title": "Smite",
+            "enterprise": "Hi Rez",
+            "gener": "MOBA",
+            "img": "../img/smite.jpg",
+            "opinion": "Gran juego, con muy buenos graficos, sin duda mejor que el LOL...",
+            "link": "https://www.smitegame.com/play-for-free/"
+        }
+    ]
+}

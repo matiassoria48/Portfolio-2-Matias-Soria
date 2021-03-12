@@ -1,0 +1,20 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "title": "Raimundo",
+            "address": "Palma de Mallorca",
+            "img": "../img/raimundo.jpg",
+            "opinion": "Gran hamburgueseria, con buen trato, aunque hay que pedir con bastante antelacion la reserva.",
+            "link":"http://raimundoburger.com/"
+        },
+        {
+            "id": 2,
+            "title": "El apendre",
+            "address": "Palma de Mallorca",
+            "img": "../img/alpendre.jpg",
+            "opinion": "Pizza por metro de gran calidad y con mucha variedad de gustos, parrillada un poco pequeña.",
+            "link":"https://www.el-alpendre.com/blanquerna"
+        }
+    ]
+}

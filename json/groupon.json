@@ -1,0 +1,94 @@
+{
+  "groupones": [
+    {
+      "id": "1",
+      "title": "Blanqueamiento dental led",
+      "enterprise": "Mas Q Dientes",
+      "address": "Palma de Mallorca",
+      "price": "46€",
+      "pricenow": "12.95€",
+      "img": "groupon-1.jpg",
+      "stars": "star-4.png"
+    },
+    {
+      "id": "2",
+      "title": "Entrada de cine y palomitas",
+      "enterprise": "Aficine",
+      "address": "Varias localizaciones",
+      "price": "9.50€",
+      "pricenow": "5.90€",
+      "img": "groupon-2.jpg",
+      "stars": "star-5.png"
+    },
+    {
+      "id": "3",
+      "title": "Limpieza bucal con empaste",
+      "enterprise": "Clinica Mallorca Med",
+      "address": "Palma de Mallorca",
+      "price": "40€",
+      "pricenow": "14.95€",
+      "img": "groupon-3.jpg",
+      "stars": "star-4.png"
+    },
+    {
+      "id": "4",
+      "title": "Peluqueria: corte, tinte y mechas",
+      "enterprise": "4 Tendencias",
+      "address": "Palma de Mallorca",
+      "price": "38€",
+      "pricenow": "14.95€",
+      "img": "groupon-4.jpg",
+      "stars": "star-4.5.png"
+    },
+    {
+      "id": "5",
+      "title": "Almohada con foto",
+      "enterprise": "Photo Gift",
+      "address": "Palma de Mallorca",
+      "price": "44'99€",
+      "pricenow": "25.99€",
+      "img": "groupon-5.jpg",
+      "stars": "star-4.png"
+    },
+    {
+      "id": "6",
+      "title": "Sesión de masajes ayurvedico",
+      "enterprise": "Gabinete Pilar Ramos",
+      "address": "Palma de Mallorca",
+      "price": "35€",
+      "pricenow": "14.99€",
+      "img": "groupon-6.jpg",
+      "stars": "star-5.png"
+    },
+    {
+      "id": "7",
+      "title": "Peluqueria con tinte, mechas o queratina",
+      "enterprise": "EyM Estilistas",
+      "address": "Palma de Mallorca",
+      "price": "36€",
+      "pricenow": "14.95€",
+      "img": "groupon-7.jpg",
+      "stars": "star-4.png"
+    },
+    {
+      "id": "8",
+      "title": "Buffet libre con bebida",
+      "enterprise": "Buffet Jordi d'Es recó",
+      "address": "Manacor",
+      "price": "31,80€",
+      "pricenow": "14.99€",
+      "img": "groupon-8.jpg",
+      "stars": "star-5.png"
+    },
+    {
+      "id": "9",
+      "title": "Visita La finca 'Els calderes'",
+      "enterprise": "Sant Joan - Mallorca",
+      "address": "Palma de Mallorca",
+      "price": "9€",
+      "pricenow": "4.95€",
+      "img": "groupon-9.jpg",
+      "stars": "star-4.png"
+    }
+  ]
+}
